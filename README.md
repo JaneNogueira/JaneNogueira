@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JaneNogueira
-- 👀 I’m interested in  Programação de Jogos Didáticos
-- 🌱 I’m currently learning  C#
-- 💞️ I’m looking to collaborate on  criação  de trilha sonora e efeitos sonoros, tenho formação na área.
-- 📫 How to reach me  via WhatsApp (64)98125-8203
+Sou Jane Nogueira
+Graduanda em Análise e Desenvolvimento de Sistemas (2023)
+Graduanda em Engenharia de Software (2025)
+Em transição de carreira de música para programação e desenvolvedora
 
 <!---
 JaneNogueira/JaneNogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
