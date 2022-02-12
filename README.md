@@ -8,8 +8,8 @@
 🔥🔥🔥. Apaixonada por back-end (C#, .NET e Java)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneNogueira&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneNogueira&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneNogueira&show_icons=true&theme=tokyonight)
+
 
 
 
