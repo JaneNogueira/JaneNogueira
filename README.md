@@ -9,6 +9,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneNogueira&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneNogueira&show_icons=true)
 
 
 
