@@ -7,7 +7,6 @@
 
 🔥🔥🔥. Apaixonada por back-end (C#, .NET e Java)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihttps://github.com/JaneNogueira)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JaneNogueira/JaneNogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
