@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneNogueira&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneNogueira&layout=compact&theme=tokyonight)](https://github.com/JaneNogueira/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JaneNogueira&theme=tokyonight)](https://github.com/JaneNogueira/github-readme-stats)
+
 
 
 
