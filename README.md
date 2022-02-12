@@ -7,12 +7,7 @@
 
 🔥🔥🔥. Apaixonada por back-end (C#, .NET e Java)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaneNogueira&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaneNogueira&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihttps://github.com/JaneNogueira)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JaneNogueira/JaneNogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
