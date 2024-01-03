@@ -1,7 +1,7 @@
 ### Olá, eu sou Jane Nogueira
 
 🧑‍🎓Em transição de carreira Estudante em Engenharia de Software
-🎶 Graduada em Música
+
 
 🔥🔥🔥. Apaixonada por back-end (C#, .NET e Java)
 
